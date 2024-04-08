@@ -33,4 +33,4 @@ Code Scanning Utilities - [csutils](https://github.com/csutils)
 
 ## Contacts
 
-If you have any questions you can open an issue on [GitHub](https://github.com/openscanhub/openscanhub/issues/new).
+Questions can be discussed on the [mailing list](https://lists.fedoraproject.org/archives/list/openscanhub@lists.fedoraproject.org/).
