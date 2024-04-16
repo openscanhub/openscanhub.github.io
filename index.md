@@ -9,7 +9,7 @@ OpenScanHub can analyze RPM packages and source code tarballs.
 
 - It can perform differential scans i.e. compare newer version of a package with older version and report defects that were introduced in the newer version.
 - It is extensible through [csmock](https://github.com/csutils/csmock) plugins and can scan any type of source code.
-- It can collect reports from various analyzers in a single place.
+- It can collect reports from various analyzers at a single place.
 
 ## Who should use it?
 
@@ -21,7 +21,7 @@ It is used inside Red Hat to scan releases of RHEL and a few other projects.
 
 ## How to use it?
 
-We are currently in the process of building a public deployment of this service. Meanwhile, you can use it on your local system by following the developer documentation.
+It is running as a [Fedora service](https://openscanhub.fedoraproject.org/). Alternatively, you can use it on your local system by following the developer documentation.
 
 ## Developers
 
