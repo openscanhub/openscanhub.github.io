@@ -27,6 +27,11 @@ It is running as a [Fedora service](https://openscanhub.fedoraproject.org/). Alt
 
 Developer documentation can be found on [GitHub](https://github.com/openscanhub/openscanhub/blob/main/docs/development.md).
 
+## Talks
+
+- [OpenScanHub - Static Analysis of a Linux Distribution - DevConf.CZ 2024](https://www.youtube.com/watch?v=rcuIvAttWgY)
+- [OpenScanHub: A Brief Introduction - GNU Tools Cauldron 2024](https://www.youtube.com/watch?v=lp7UECNg7qY)
+
 ## Related Links
 
 Code Scanning Utilities - [csutils](https://github.com/csutils)
