@@ -31,6 +31,7 @@ Developer documentation can be found on [GitHub](https://github.com/openscanhub/
 
 - [OpenScanHub - Static Analysis of a Linux Distribution - DevConf.CZ 2024](https://www.youtube.com/watch?v=rcuIvAttWgY)
 - [OpenScanHub: A Brief Introduction - GNU Tools Cauldron 2024](https://www.youtube.com/watch?v=lp7UECNg7qY)
+- [OpenScanHub and Packit: Fully automated static analysis of RPM-based distributions](https://www.youtube.com/watch?v=XYCh1hkCo-o)
 
 ## Related Links
 
