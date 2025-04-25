@@ -35,7 +35,8 @@ Developer documentation can be found on [GitHub](https://github.com/openscanhub/
 
 ## Related Links
 
-Code Scanning Utilities - [csutils](https://github.com/csutils)
+- Code Scanning Utilities - https://github.com/csutils
+- Known False Positives - https://github.com/openscanhub/known-false-positives
 
 ## Contacts
 
